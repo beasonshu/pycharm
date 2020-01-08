@@ -186,6 +186,10 @@
           <option name="url" value="http://gitlab.iwgame.tec" />
           <option name="userName" value="xhshu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mwangluxi/proxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/workStation" />
