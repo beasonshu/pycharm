@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="2to3" description="Convert Python2 to Python3" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ModuleSdkPath$" />
+      <option name="PARAMETERS" value="$JDKPath$ -w $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>
