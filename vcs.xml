@@ -250,6 +250,10 @@
           <option name="url" value="https://github.com/the-pig-of-jungle/smart-show.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iwgame.tec/x8/x8-shell-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/workStation" />
