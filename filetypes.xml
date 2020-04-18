@@ -5,6 +5,7 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="textclipping" type="PLAIN_TEXT" />
+      <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="flat" type="XML" />
     </extensionMap>
   </component>
