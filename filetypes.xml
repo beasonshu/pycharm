@@ -1,12 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="class" approved="true" type="CLASS" />
       <mapping pattern=".keystore" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="textclipping" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="flat" type="XML" />
+      <removed_mapping ext="class" approved="true" type="CLASS" />
     </extensionMap>
   </component>
 </application>
