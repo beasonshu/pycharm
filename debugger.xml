@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="FORCE_CLASSIC_VM" value="false" />
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
