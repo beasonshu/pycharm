@@ -262,6 +262,10 @@
           <option name="url" value="git@gitlab.iwgame.tec:x8/x8-projects.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iwgame.com" />
+          <option name="userName" value="shuxinghu" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/workStation" />
