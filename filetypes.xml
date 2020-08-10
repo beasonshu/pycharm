@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="opay_version" type="PLAIN_TEXT" />
+      <mapping pattern="0a52cfa1" type="PLAIN_TEXT" />
       <mapping pattern=".keystore" type="PLAIN_TEXT" />
       <mapping ext="textclipping" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
