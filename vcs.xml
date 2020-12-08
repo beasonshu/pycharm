@@ -286,6 +286,14 @@
           <option name="url" value="http://gitlab.iwgame.com:443" />
           <option name="userName" value="shuxinghu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-dqsdk.iwgame.com/h5_project/official_user_center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-dqsdk.iwgame.com" />
+          <option name="userName" value="lian" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/iwgame" />
