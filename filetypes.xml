@@ -10,6 +10,7 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="flat" type="XML" />
       <removed_mapping ext="class" approved="true" type="CLASS" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
   </component>
 </application>
