@@ -13,6 +13,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="str.filename" />
+        <option value="Exception.message" />
       </list>
     </option>
   </inspection_tool>
