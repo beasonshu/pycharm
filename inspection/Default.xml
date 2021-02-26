@@ -16,6 +16,7 @@
         <option value="Exception.message" />
         <option value="templates" />
         <option value="plugin_utils" />
+        <option value="dict.has_key" />
       </list>
     </option>
   </inspection_tool>
