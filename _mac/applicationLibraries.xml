@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="default" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_imsun.github.io_gitment_style_default.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_imsun.github.io_gitment_style_default.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gitment.browser" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_imsun.github.io_gitment_dist_gitment.browser.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_imsun.github.io_gitment_dist_gitment.browser.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
