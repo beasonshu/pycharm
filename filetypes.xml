@@ -13,6 +13,7 @@
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="flat" type="XML" />
       <removed_mapping ext="class" approved="true" type="CLASS" />
+      <removed_mapping ext="ini" approved="true" type="Ini" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
   </component>
